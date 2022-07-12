@@ -1,0 +1,23 @@
+#style.css
+#img{height: auto;
+width: auto;
+margin: auto;}
+h4 { 
+    float: left;}
+button{color: navy;}
+ul{
+    float: left;
+    
+    align-items: center;}
+
+ul button:hover{ color: rgb(169, 191, 42); }
+
+div h1{float: left;}
+
+h4{float:right}
+
+p{color: aliceblue; background-color:rgb(26,48,118 ) ;}
+#square{height: 100px;
+       width: 100px;
+       border-radius: 25%;
+        background-color: black;}
